@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<link rel="me" href="https://mastodon.social/@effhaa">
+<link rel="me" href="https://mastodon.social/@effhaa" rel="me" rel='me'>
 <br>
 <a rel="me" href="https://mastodon.social/@effhaa">Mastodon</a>
